@@ -8,11 +8,11 @@ Check them out if you don't have them locally installed.
 
 #### Run:  
 
-- Problem 6:  
+- Problem 6:    
 `$ python problem6.py`  
 
-- Problem 7:
+- Problem 7:  
 `$ python problem7.py`  
 
-- Problem 8:
+- Problem 8:  
 `$ python problem8.py`  
